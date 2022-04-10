@@ -29,3 +29,11 @@ T-testing of the individual lots also confirms the summary findings: lots 1 and 
 |---|---|---|
 |![Lot 1 t-test](t-test1.png)|![Lot 2 t-test](t-test2.png)|![Lot 3 t-test](t-test3.png)|
 |Null Hypothesis|Null Hypothesis|Alternative Hypothesis|
+
+## Study Design: Maintenance Costs of MechaCar vs. Competition
+
+A statistical study of maintenance costs would help customers to see whether buying from MechaCar saves them money in the long run. In such a study, the metric would be cumulative maintenance cost over a given period of years. Cumulative maintenance cost data would need to be gathered from MechaCar vehicles as well as competitors.
+
+The null hypothesis in a statistical study of maintenance costs is that there is no statistically significant difference in maintenance between MechaCar and its competitors, while the alternative hypothesis is that such a difference does exist.
+
+Because the independent variable (company) is categorical and the dependent variable (cumulative cost) is numeric, and because this study involves comparison of the distribution of means from multiple samples, an ANOVA test would be used. 
