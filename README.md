@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-## Linear Regress to Predict MPG
+## Linear Regression to Predict MPG
 ![Linear Regression Output](mpg_linear_regression_output.png)
 
 Assuming a standard significance level, vehicle length, and ground clearance are unlikely to provide random amounts of variance to mpg values and are therefore likely to have significant impact. Since these variables have a significant relationship with the dependent variable, and othe overall p-value is below standard significance level, the slope is not considered to be zero.
